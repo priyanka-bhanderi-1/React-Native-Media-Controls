@@ -44,6 +44,6 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-native-slider": "https://github.com/priyanka-bhanderi-1/react-native-slider.git"
+    "react-native-slider": "git+https://github.com/priyanka-bhanderi-1/react-native-slider.git"
   }
 }
